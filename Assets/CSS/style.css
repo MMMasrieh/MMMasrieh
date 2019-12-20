@@ -1,0 +1,39 @@
+*{
+    font-weight: bold;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 28px;
+  }
+  
+  h1 {
+    color:white;
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
+  img {
+    border-radius: 50%;
+    padding: 25px;
+  }
+
+  header {
+      background-color: navy
+  }
+  a {
+      color:darkgreen
+  }
+  footer{
+    color:white;
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    background-color: orange
+  }
